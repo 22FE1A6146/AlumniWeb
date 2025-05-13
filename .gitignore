@@ -7,12 +7,24 @@ yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
 
-node_modules
+# Build output
 dist
 dist-ssr
+
+# Environment files
+.env
+.env.local
+
+# Firebase credentials
+server/firebase-adminsdk.json
+
+# Node modules
+node_modules
+
+# Local config
 *.local
 
-# Editor directories and files
+# Editor settings
 .vscode/*
 !.vscode/extensions.json
 .idea
@@ -22,5 +34,3 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
-"server/firebase-adminsdk.json" 
-"server/firebase-adminsdk.json" 
