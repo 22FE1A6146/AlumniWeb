@@ -16,7 +16,7 @@ dist-ssr
 .env.local
 
 # Firebase credentials
-server/firebase-adminsdk.json
+#server/firebase-adminsdk.json
 
 # Node modules
 node_modules
