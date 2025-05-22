@@ -1,6 +1,4 @@
-Ah, looks like the file didn’t upload correctly. Let me regenerate and upload it again for you properly.
 
-Here’s your `README.md` content again, and I’ll immediately generate the downloadable file below:
 
 ```markdown
 # 🎓 AlumniWeb
