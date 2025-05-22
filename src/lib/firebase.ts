@@ -4,12 +4,12 @@ import { useEffect, useState } from "react";
 
 // Firebase configuration from environment variables (Vite uses VITE_ prefix)
 const firebaseConfig = {
-  apiKey: import.meta.env.VITE_FIREBASE_API_KEY || "AIzaSyDUDTf3-qbFyM9EeDufNQsecCi_vFkHZ-k",
-  authDomain: import.meta.env.VITE_FIREBASE_AUTH_DOMAIN || "alumniwebsite-581bf.firebaseapp.com",
-  projectId: import.meta.env.VITE_FIREBASE_PROJECT_ID || "alumniwebsite-581bf",
-  storageBucket: import.meta.env.VITE_FIREBASE_STORAGE_BUCKET || "alumniwebsite-581bf.firebasestorage.app",
-  messagingSenderId: import.meta.env.VITE_FIREBASE_MESSAGING_SENDER_ID || "627272054843",
-  appId: import.meta.env.VITE_FIREBASE_APP_ID || "1:627272054843:web:075ce5a1aec57220a1041e",
+  apiKey: import.meta.env.VITE_FIREBASE_API_KEY || 
+  authDomain: import.meta.env.VITE_FIREBASE_AUTH_DOMAIN || 
+  projectId: import.meta.env.VITE_FIREBASE_PROJECT_ID || 
+  storageBucket: import.meta.env.VITE_FIREBASE_STORAGE_BUCKET || 
+  messagingSenderId: import.meta.env.VITE_FIREBASE_MESSAGING_SENDER_ID || 
+  appId: import.meta.env.VITE_FIREBASE_APP_ID || 
 };
 
 // Initialize Firebase
