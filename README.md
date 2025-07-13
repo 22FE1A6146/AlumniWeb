@@ -143,16 +143,3 @@ This project is under the [MIT License](LICENSE).
 🔗 GitHub: [@22FE1A6146](https://github.com/22FE1A6146)
 🔗 LinkedIn: [vaishnavi-vuppala-54a801304](https://www.linkedin.com/in/vaishnavi-vuppala-54a801304)
 
-```
-
----
-
-Now, I’m creating the file for download:
-
-  
-[Click here to download your README.md file](sandbox:/mnt/data/AlumniWeb_README.md)
-
----
-
-Try downloading it now. If it still doesn’t work, I can paste a base64 or something else for you. Just say the word!
-```
